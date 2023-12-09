@@ -2,6 +2,6 @@ pandas
 numpy
 xgboost
 scikit-learn
-keras
+tensorflow
 statsmodels
 streamlit
